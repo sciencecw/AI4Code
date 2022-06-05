@@ -16,6 +16,7 @@
   - processes text with traditional NLP methods
   - apply AST and find out about potential inheritance information
   - pair cells to make final matrix ready for classifiers
+  - creates custom validation set, as the validation and training samples must not share entries from the same jupyter notebook
 
 - Notebook 5: Machine Learning Classifiers and plot and metric of result
 
